@@ -37,7 +37,7 @@ soil-course-repo/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/soil-course.git
+   git clone https://github.com/unitrento/icts-moodle-packages-soil_course.git
    cd soil-course
    ```
 
@@ -84,5 +84,5 @@ The project relies on standard scientific Python packages managed via `pyproject
 
 ## 📝 License & Acknowledgments
 
-* **Course**: University Soil Science / Geotechnical Module
-* **Author**: [Your Name]
+* **Course**: SOIL - The Hydrology of Soil
+* **Author**: Lorenzo Duchi
